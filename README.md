@@ -7,3 +7,5 @@ Learn more about the recommended Project Setup and IDE Support in the [Vue Docs 
 ## UI库使用naive-ui
 ## 图标库使用vicons/ionicons5
 ## vue3+ts+vite+pinia+axios+vuerouter@4+dayjs
+
+目前只是一个模版框架
