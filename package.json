@@ -69,5 +69,8 @@
   "eslintIgnore": [
     "dist",
     "node_modules"
-  ]
+  ],
+  "volta": {
+    "node": "18.20.4"
+  }
 }
